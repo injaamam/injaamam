@@ -16,6 +16,7 @@ I'm a Software Engineer specializing in full-stack web development with **Node.j
 ## Connect With Me
 
 - **Email:** [injamamul937@gmail.com](mailto:injamamul937@gmail.com)
+- **Whatsapp:** [+8801741419688](https://wa.me/8801741419688?text=Hello)
 - **LinkedIn:** [linkedin.com/in/injaamam](https://www.linkedin.com/in/injaamam/)
 - **Upwork:** [https://upwork.com/freelancers/injamam](https://www.upwork.com/freelancers/injamam)
 - **Discord:** [injaamam]()
