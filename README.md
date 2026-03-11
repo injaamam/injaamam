@@ -19,10 +19,12 @@ Open to collaborating on projects across web development, ML, and systems engine
 | **ML / AI**   | Python, PyTorch, scikit-learn, TensorFlow, NumPy, Pandas, Matplotlib |
 | **DevOps**    | Linux, Docker, CI/CD, Shell Scripting                                |
 
-## Connect With Me
+## Hire Me
 
-[![Email](https://img.shields.io/badge/Email-injamamul937%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:injamamul937@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-injaamam-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/injaamam/)
+<!-- [![Email](https://img.shields.io/badge/Email-injamamul937%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:injamamul937@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-injaamam-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/injaamam/) -->
+
 [![Upwork](https://img.shields.io/badge/Upwork-injamam-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/injamam)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+8801741419688-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801741419688?text=Hello)
-[![Discord](https://img.shields.io/badge/Discord-injaamam-5865F2?style=flat&logo=discord&logoColor=white)]()
+
+<!-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-+8801741419688-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/8801741419688?text=Hello)
+[![Discord](https://img.shields.io/badge/Discord-injaamam-5865F2?style=flat&logo=discord&logoColor=white)]() -->
