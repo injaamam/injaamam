@@ -1,6 +1,6 @@
 # Hi there, I'm Injamamul Haque 👋
 
-[![WakaTime](https://wakatime.com/badge/user/3ff9eab5-ffa3-454b-92b4-a784ea0d1f3e.svg)](https://wakatime.com/@3ff9eab5-ffa3-454b-92b4-a784ea0d1f3e)
+<!-- [![WakaTime](https://wakatime.com/badge/user/3ff9eab5-ffa3-454b-92b4-a784ea0d1f3e.svg)](https://wakatime.com/@3ff9eab5-ffa3-454b-92b4-a784ea0d1f3e) -->
 
 ## About Me
 
